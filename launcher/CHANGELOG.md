@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.1](https://github.com/helalaou/AeroTizen/compare/launcher-v2.3.0...launcher-v2.3.1) (2026-10-25)
+
+
+### Bug Fixes
+
+* **launcher:** preserve Samsung signal levels and unknown network status ([#43](https://github.com/helalaou/AeroTizen/issues/43)) ([f9baca7](https://github.com/helalaou/AeroTizen/commit/f9baca7f57586643ef778c41d7791038abe846af)), closes [#38](https://github.com/helalaou/AeroTizen/issues/38)
+
 ## [2.3.0](https://github.com/helalaou/AeroTizen/compare/launcher-v2.2.0...launcher-v2.3.0) (2026-10-25)
 
 
